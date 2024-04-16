@@ -1,0 +1,5 @@
+[INFO ] 2024-04-16 17:55:42.788 [main] TestListeners - Test execution started
+[INFO ] 2024-04-16 17:55:44.753 [main] TestListeners - Test started: LoginWithLockedOutUser
+[INFO ] 2024-04-16 17:55:44.976 [main] TestListeners - Test PASSED : LoginWithLockedOutUser
+[INFO ] 2024-04-16 17:55:46.491 [main] TestListeners - Test started: testCheckoutProduct
+[INFO ] 2024-04-16 17:55:58.582 [main] TestListeners - Test PASSED : testCheckoutProduct
